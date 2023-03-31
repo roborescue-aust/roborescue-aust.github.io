@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Kinnrai's Blog
-subtitle: 欢迎来到kinnrai的小站
-description: 心之光比天空更炫目，心之暗比大海更深邃
-author: Kinnrai
+title: RoboCup Rescue Simulation - AUST
+subtitle: 这里是安理救援仿真资料站
+description: 欢迎同学们积极参与建设
+author: aust
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -105,7 +105,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -215,8 +215,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/kinnrai
-  Twitter: https://twitter.com/Kinnrai
+  GitHub: https://github.com/roborescue-aust
 
 
 
@@ -235,7 +234,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
+# in directory: 
+# avatar: /assets/images/avatar.gif
 avatar: /assets/images/avatar.png
 
 
